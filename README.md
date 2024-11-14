@@ -23,9 +23,9 @@ This is a Python-based scientific calculator built using the `Tkinter` library. 
 ## Installation
 
 1. Make sure you have **Python 3.x** installed on your system. You can check this by running:
-   ```bash
+  
    python --version
-  ```
+ 
 2. If Tkinter is not installed (it is usually included with Python), you can install it using:
 
 pip install tk
